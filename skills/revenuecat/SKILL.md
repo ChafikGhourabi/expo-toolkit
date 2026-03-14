@@ -1,3 +1,8 @@
+---
+name: revenuecat
+description: Expert guidance for integrating RevenueCat subscriptions and in-app purchases in React Native Expo apps.
+---
+
 # RevenueCat Integration
 
 This skill provides expert knowledge on integrating RevenueCat for in-app purchases and subscriptions in React Native Expo apps.
